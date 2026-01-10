@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピーターパン･シンドローム",
+  "base_artist": "Sound Schedule",
+  "createdAt": "2026-01-10T02:16:39.578873Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピーターパン・シンドローム",
+      "artist": "Sound Schedule",
+      "has_synced": false,
+      "path": "select/pl_01_ピーターパン・シンドローム_Sound_Schedule.txt"
+    }
+  ]
+}
